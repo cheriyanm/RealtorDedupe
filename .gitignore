@@ -1,0 +1,22 @@
+# Virtual environment
+realtordepupe_env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+
+# Data files
+data/raw/
+data/processed/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MLflow
+mlruns/
+
+# IDE
+.vscode/
+.idea/
