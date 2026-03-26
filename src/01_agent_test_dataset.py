@@ -415,7 +415,7 @@ df.insert(0, "record_id", [f"REC{str(i).zfill(5)}" for i in range(len(df))])
 df = df.sample(frac=1, random_state=42).reset_index(drop=True)
 
 # Save to CSV
-df.to_csv("agent_test_dataset.csv", index=False)
+df.to_csv("data/raw/agent_test_dataset.csv", index=False)
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Summary Report
@@ -434,5 +434,5 @@ print("-"*55)
 print(f"\n  Unique True Agents:  {df['true_agent_id'].nunique():,}")
 print(f"  Total Records:       {len(df):,}")
 print(f"  Avg Records/Agent:   {len(df)/df['true_agent_id'].nunique():.1f}")
-print(f"\n  Saved to: agent_test_dataset.csv")
+print(f"\n  Saved to: data/raw/agent_test_dataset.csv")
 print("="*55)
