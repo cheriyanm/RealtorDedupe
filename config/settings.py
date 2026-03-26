@@ -5,6 +5,7 @@ RAW_DATA_PATH        = "data/raw/agent_test_dataset.csv"
 PROCESSED_DATA_PATH  = "data/processed/normalized_agents.csv"
 CANDIDATE_PAIRS_PATH = "data/processed/candidate_pairs.csv"
 SCORED_PAIRS_PATH    = "data/processed/scored_pairs.csv"
+FINAL_MATCHES_PATH   = "data/output/final_matches.csv"
 OUTPUT_PATH          = "data/output/unique_agents.csv"
 
 # Matching Thresholds
