@@ -1,0 +1,506 @@
+record_id,agent_full_name,agent_mls_id,agent_state_license,agent_preferred_phone,agent_email,office_name,state,mls_source,true_agent_id,test_case
+REC00173,Barbara Thompson,MLS835869,TX-22999,+16647178048,barbara.thompson@realty.com,Thompson & Associates,TX,SABOR_TX,3870904a,TC4_email_variation
+REC00274,John Johnson,MLS930541,TX36342,(720) 429-2988,john_johnson@gmail.com,Century 21,TX,HAR_TX,c2844325,TC6_similar_name_different_agent
+REC00490,Patricia Young,MLS126499,TX-023955,(632) 213-9564,patricia.young@gmail.com,RE/MAX,TX,SABOR_TX,0681d3ab,TC9_different_agents
+REC00072,William White,MLS958179,FL70946,793.821.6279,william.white@realty.com,White Properties,FL,MFRMLS_FL,73d3c316,TC2_multi_state
+REC00305,David Brown,MLS114768,34405,948.669.5215,brown.david@realty.com,RE/MAX,CA,MATRIX_CA,d993836e,TC6_similar_name_different_agent
+REC00076,Thomas Young,MLS954596,LIC-NY-27477,4553248478,thomas.young@coldwellbanker.com,Young Properties,NY,NYSMLS_NY,6a742391,TC2_multi_state
+REC00476,Thomas Garcia,MLS811346,NC-084572,(626) 804-8908,garcia.thomas@remax.com,Century 21,NC,FLEX_NC,1c5dee93,TC9_different_agents
+REC00140,Patricia Jones,MLS182804,LIC-CA-32280,7436213950,patricia.jones@realty.com,Jones & Associates,CA,NWMLS_CA,e2acc578,TC4_email_variation
+REC00470,Barbara King,MLS223453,90962,628-307-9381,barbara.king@coldwellbanker.com,RE/MAX,CA,MATRIX_CA,2e3646d3,TC9_different_agents
+REC00499,Robert Jackson,MLS641975,13238,+17539415633,jackson.robert@coldwellbanker.com,Coldwell Banker,TX,NTREIS_TX,df94c17f,TC9_different_agents
+REC00218,Michael Taylor,MLS185461,LIC-FL-98984,+16189936543,michael.taylor@outlook.com,Taylor Real Estate,FL,MIAMI_FL,dbb0963b,TC5_license_prefix
+REC00009,Liz Smith,MLS705397,FL20328,749-327-7201,lsmith@gmail.com,Smith Realty,FL,MIAMI_FL,1505862c,TC1_name_variation
+REC00480,Michael Davis,MLS677236,TX-039190,4842519305,mdavis@yahoo.com,Coldwell Banker,TX,SABOR_TX,7f72426f,TC9_different_agents
+REC00078,Thomas Young,MLS980660,27477,+14553248478,thomas.young@coldwellbanker.com,Young Properties,CA,CRMLS_CA,6a742391,TC2_multi_state
+REC00322,Chris Smith,MLS434217,FL-078742,2485527244,csmith@kw.com,Coldwell Banker,FL,MFRMLS_FL,aa91e566,TC6_similar_name_different_agent
+REC00312,Sarah Johnson,MLS612573,NY-86434,+16523194365,sarah_johnson@gmail.com,Coldwell Banker,NY,REBNY_NY,299a9266,TC6_similar_name_different_agent
+REC00124,Barbara Martin,MLS130271,LIC-FL-45003,(915) 696-2989,barbara.martin@outlook.com,Martin Realty Group,FL,MIAMI_FL,aa918b5b,TC3_phone_changed
+REC00384,Robert Garcia,MLS538555,LIC-TX-60916,+19103449369,robert.garcia@outlook.com,Garcia Realty,TX,HAR_TX,e6a9d9dc,TC8_missing_fields
+REC00195,Thomas White,MLS701253,NC-85465,6702796129,thomas.white@remax.com,White Real Estate,NC,NWMLS_NC,14a29624,TC5_license_prefix
+REC00447,Michael Davis,MLS121215,58816,963.686.5400,michaeld@kw.com,Coldwell Banker,NC,FLEX_NC,e907fe50,TC9_different_agents
+REC00271,John Smith,MLS642895,CA-075410,+13162264048,john.smith@kw.com,Century 21,CA,MATRIX_CA,6f1246e8,TC6_similar_name_different_agent
+REC00278,John Brown,MLS755383,26406,+14564015496,brown.john@yahoo.com,RE/MAX,NC,FLEX_NC,41c09d34,TC6_similar_name_different_agent
+REC00030,Jimmy Jones,MLS351083,TX-79514,(980) 365-9837,jimmyj@yahoo.com,Jones Realty,TX,HAR_TX,93f3392b,TC1_name_variation
+REC00500,Jennifer Miller,MLS910883,LIC-TX-31940,+17262842572,jennifer.miller@yahoo.com,RE/MAX,TX,HAR_TX,5a552c1d,TC9_different_agents
+REC00420,James Jones,MLS153097,NC70423,+15393251699,james_jones@remax.com,Coldwell Banker,NC,CRMLS_NC,27c3070c,TC9_different_agents
+REC00444,Linda Jackson,MLS112964,LIC-NY-70051,+15334829514,jackson.linda@remax.com,Keller Williams,NY,MLSLI_NY,a20c8c3f,TC9_different_agents
+REC00079,William Wilson,MLS342495,TX-040735,(650) 279-5681,william.wilson@realty.com,Wilson Properties,TX,NTREIS_TX,09b4f7da,TC2_multi_state
+REC00318,Sarah Jones,MLS948799,CA-014222,+19429832848,sarah.jones@realty.com,RE/MAX,CA,CRMLS_CA,cdebf083,TC6_similar_name_different_agent
+REC00210,James Harris,MLS708519,LIC-TX-56129,+14818051920,james.harris@gmail.com,Harris Real Estate,TX,SABOR_TX,2fef3194,TC5_license_prefix
+REC00496,Linda Thomas,MLS292800,LIC-NC-38830,924-525-9608,thomas.linda@outlook.com,Coldwell Banker,NC,FLEX_NC,ed36fda5,TC9_different_agents
+REC00172,Thomas Smith,MLS763829,LIC-FL-74260,+16116362768,thomass@cbunited.com,Smith & Associates,FL,MIAMI_FL,5c62f438,TC4_email_variation
+REC00453,William Miller,MLS918207,TX-12628,8676199409,wmiller@outlook.com,eXp Realty,TX,NTREIS_TX,0f36950b,TC9_different_agents
+REC00374,William Harris,MLS623557,TX98208,(909) 270-7703,william.harris@kw.com,Century 21,TX,NTREIS_TX,b21a78c0,TC7_exact_duplicate
+REC00358,James Young,MLS193972,LIC-NY-13442,724.617.2692,james.young@yahoo.com,Century 21,NY,REBNY_NY,c6e4d4b4,TC7_exact_duplicate
+REC00494,James Garcia,MLS495521,NC-25643,3913779418,jamesg@kw.com,RE/MAX,NC,CRMLS_NC,009281f3,TC9_different_agents
+REC00153,James Williams,MLS229592,CA-083048,972.431.7511,jwilliams@kw.com,Williams & Associates,CA,MATRIX_CA,b280c279,TC4_email_variation
+REC00002,Tommy Brown,MLS198246,NC39256,(959) 481-5012,tommyb@gmail.com,Brown Realty,NC,FLEX_NC,a5eaf10f,TC1_name_variation
+REC00335,William King,MLS182857,NY-062022,458.562.5379,william.king@remax.com,Century 21,NY,REBNY_NY,37acc3e7,TC7_exact_duplicate
+REC00208,James Harris,MLS139434,TX56129,481-805-1920,james.harris@cbunited.com,Harris Real Estate,TX,SABOR_TX,2fef3194,TC5_license_prefix
+REC00073,William White,MLS254511,TX-70946,793-821-6279,william.white@realty.com,White Properties,TX,NTREIS_TX,73d3c316,TC2_multi_state
+REC00495,Barbara Wilson,MLS261169,15235,+15386773536,barbara.wilson@kw.com,Coldwell Banker,NC,FLEX_NC,0f6b1888,TC9_different_agents
+REC00451,Linda Jackson,MLS612530,LIC-NC-58819,8972314963,ljackson@coldwellbanker.com,eXp Realty,NC,FLEX_NC,04cc7a2b,TC9_different_agents
+REC00204,Elizabeth Wilson,MLS896788,CA95918,+13778163504,elizabeth.wilson@coldwellbanker.com,Wilson Real Estate,CA,MATRIX_CA,9d89a813,TC5_license_prefix
+REC00068,Patricia Allen,MLS989208,FL-67154,394.460.1727,patricia.allen@kw.com,Allen Properties,FL,BRIGHT_FL,ea291da4,TC2_multi_state
+REC00090,William Johnson,MLS736745,CA-26544,(836) 356-4908,william.johnson@kw.com,Johnson Properties,CA,MATRIX_CA,fbcca6e5,TC2_multi_state
+REC00299,David Johnson,MLS787836,67983,9312806674,djohnson@realty.com,Century 21,TX,HAR_TX,4c883249,TC6_similar_name_different_agent
+REC00033,Lin Jones,MLS847581,79163,7623695342,ljones@cbunited.com,Jones Realty,FL,MIAMI_FL,c05b71f2,TC1_name_variation
+REC00070,Patricia Anderson,MLS674553,NY-82667,612.913.5844,patricia.anderson@kw.com,Anderson Properties,NY,MLSLI_NY,045e1c8f,TC2_multi_state
+REC00469,Patricia Brown,MLS828961,NY-36934,458.685.3508,patricia_brown@yahoo.com,eXp Realty,NY,MLSLI_NY,f1836d49,TC9_different_agents
+REC00000,Thomas Brown,MLS246316,NC-39256,+19594815012,thomas.brown@yahoo.com,Brown Realty,NC,CRMLS_NC,a5eaf10f,TC1_name_variation
+REC00011,Eliza Smith,MLS996865,FL20328,749-327-7201,eliza_smith@remax.com,Smith Realty,FL,MFRMLS_FL,1505862c,TC1_name_variation
+REC00281,John Jones,MLS560959,TX-030719,6642741981,john_jones@realty.com,Century 21,TX,HAR_TX,5601e2e3,TC6_similar_name_different_agent
+REC00022,Mick Allen,MLS757924,FL38746,7976086930,micka@yahoo.com,Allen Realty,FL,BRIGHT_FL,320a2e9c,TC1_name_variation
+REC00101,James Young,MLS836996,NY-056112,552.635.6419,james.young@kw.com,Young Realty Group,NY,REBNY_NY,6fd09bcc,TC3_phone_changed
+REC00268,Elizabeth Williams,MLS571778,CA57467,997.860.7001,elizabeth.williams@cbunited.com,Williams Real Estate,CA,NWMLS_CA,0b826893,TC5_license_prefix
+REC00484,Michael Taylor,MLS272129,NY-016000,(734) 582-2741,michael_taylor@yahoo.com,Century 21,NY,NYSMLS_NY,ec78a5f8,TC9_different_agents
+REC00441,Barbara Davis,MLS661527,NY-064870,+12625969561,bdavis@coldwellbanker.com,Century 21,NY,REBNY_NY,99fbb112,TC9_different_agents
+REC00290,Mary Williams,MLS579187,CA78069,+19305418761,williams.mary@outlook.com,Century 21,CA,MATRIX_CA,1fb0efd0,TC6_similar_name_different_agent
+REC00084,Barbara Johnson,MLS507746,72518,9837897232,barbara.johnson@outlook.com,Johnson Properties,CA,CRMLS_CA,1976f586,TC2_multi_state
+REC00245,Robert Martin,MLS698384,85372,7482169443,robert.martin@outlook.com,Martin Real Estate,NY,NYSMLS_NY,dad98f26,TC5_license_prefix
+REC00063,Elizabeth Anderson,MLS960394,NC44970,(621) 885-5065,elizabeth.anderson@gmail.com,Anderson Properties,NC,NWMLS_NC,9167a920,TC2_multi_state
+REC00055,William Thomas,MLS734210,TX81200,491.361.8179,william.thomas@realty.com,Thomas Properties,TX,SABOR_TX,481d439d,TC2_multi_state
+REC00229,James Smith,MLS485709,68222,+15738924891,james.smith@coldwellbanker.com,Smith Real Estate,FL,MIAMI_FL,7700fe54,TC5_license_prefix
+REC00018,Jenny Smith,MLS249811,45093,(232) 523-7572,jennys@realty.com,Smith Realty,CA,MATRIX_CA,3f5b2c93,TC1_name_variation
+REC00410,James Taylor,MLS486839,TX11044,535.288.8483,taylor.james@kw.com,eXp Realty,TX,NTREIS_TX,fbf61561,TC9_different_agents
+REC00209,James Harris,MLS180458,56129,481-805-1920,james.harris@remax.com,Harris Real Estate,TX,SABOR_TX,2fef3194,TC5_license_prefix
+REC00394,Barbara Martin,MLS204411,TX16021,8989801793,,Martin Realty,TX,NTREIS_TX,35f714ee,TC8_missing_fields
+REC00082,Barbara Johnson,MLS883826,LIC-TX-72518,+19837897232,barbara.johnson@realty.com,Johnson Properties,TX,HAR_TX,1976f586,TC2_multi_state
+REC00039,B. Johnson,MLS858490,LIC-NY-10942,+17674354608,b_johnson@coldwellbanker.com,Johnson Realty,NY,REBNY_NY,9f3737b4,TC1_name_variation
+REC00455,Linda King,MLS794530,77045,+17983041120,king.linda@kw.com,Century 21,FL,BRIGHT_FL,c578d16e,TC9_different_agents
+REC00046,Elizabeth Jackson,MLS428838,FL-69638,202-599-5345,elizabeth.jackson@coldwellbanker.com,Jackson Properties,FL,BRIGHT_FL,18ed0618,TC2_multi_state
+REC00412,Linda Thomas,MLS208998,NC50306,+15432017164,lthomas@remax.com,Coldwell Banker,NC,CRMLS_NC,58591b4d,TC9_different_agents
+REC00314,Sarah Williams,MLS834406,NY-55158,+12742467941,sarah.williams@yahoo.com,Coldwell Banker,NY,REBNY_NY,7b4d63e1,TC6_similar_name_different_agent
+REC00354,Robert Williams,MLS432061,TX-61068,357.589.3527,robert.williams@yahoo.com,Century 21,TX,NTREIS_TX,0ee9817e,TC7_exact_duplicate
+REC00077,Thomas Young,MLS879779,TX-027477,4553248478,thomas.young@kw.com,Young Properties,TX,NTREIS_TX,6a742391,TC2_multi_state
+REC00397,Patricia Jones,MLS866260,,272-434-7276,patricia.jones@kw.com,Jones Realty,FL,MFRMLS_FL,245d4931,TC8_missing_fields
+REC00104,Linda Garcia,MLS338533,46241,(302) 398-5853,linda.garcia@kw.com,Garcia Realty Group,CA,NWMLS_CA,674ba110,TC3_phone_changed
+REC00203,Elizabeth Wilson,MLS285751,CA-95918,3778163504,elizabeth.wilson@coldwellbanker.com,Wilson Real Estate,CA,MATRIX_CA,9d89a813,TC5_license_prefix
+REC00380,Michael Brown,MLS678719,,,michael.brown@coldwellbanker.com,Brown Realty,CA,CRMLS_CA,6f644230,TC8_missing_fields
+REC00488,Jennifer Harris,MLS984027,LIC-CA-49179,341.622.9393,harris.jennifer@realty.com,RE/MAX,CA,CRMLS_CA,ced7e1f9,TC9_different_agents
+REC00069,Patricia Anderson,MLS884475,FL82667,+16129135844,patricia.anderson@kw.com,Anderson Properties,FL,BRIGHT_FL,045e1c8f,TC2_multi_state
+REC00407,Michael Garcia,MLS876764,LIC-TX-39937,991-305-2889,michael.garcia@gmail.com,RE/MAX,TX,NTREIS_TX,95a1dd09,TC9_different_agents
+REC00255,James Wilson,MLS918771,NC-47501,971-862-4131,james.wilson@cbunited.com,Wilson Real Estate,NC,NWMLS_NC,470debc5,TC5_license_prefix
+REC00391,Robert Jones,MLS361805,FL-027392,,robert.jones@realty.com,Jones Realty,FL,BRIGHT_FL,981b1167,TC8_missing_fields
+REC00311,Sarah Johnson,MLS630041,NC81781,+17773142011,johnson.sarah@outlook.com,RE/MAX,NC,NWMLS_NC,ac0ddd17,TC6_similar_name_different_agent
+REC00234,Linda White,MLS638289,LIC-CA-42768,(404) 819-3267,linda.white@remax.com,White Real Estate,CA,CRMLS_CA,3f6e7f67,TC5_license_prefix
+REC00473,William Harris,MLS952679,TX23082,470-675-1820,williamh@cbunited.com,Century 21,TX,SABOR_TX,f59e5278,TC9_different_agents
+REC00323,Chris Smith,MLS999197,NY49418,6844464692,chris.smith@remax.com,Coldwell Banker,NY,NYSMLS_NY,31f7f800,TC6_similar_name_different_agent
+REC00093,Michael Young,MLS778998,76317,877-579-2129,michael.young@remax.com,Young Realty Group,FL,MFRMLS_FL,c633550d,TC3_phone_changed
+REC00137,Thomas King,MLS194769,NC-039817,440-846-5708,thomas.king@yahoo.com,King & Associates,NC,NWMLS_NC,9f3ddedd,TC4_email_variation
+REC00176,Michael Wilson,MLS972176,TX-18799,356-903-8770,michael.wilson@remax.com,Wilson & Associates,TX,NTREIS_TX,4268ac48,TC4_email_variation
+REC00336,William King,MLS182857,NY-062022,458.562.5379,william.king@remax.com,Century 21,NY,REBNY_NY,37acc3e7,TC7_exact_duplicate
+REC00131,William Allen,MLS880879,FL-015720,4399947730,william.allen@remax.com,Allen & Associates,FL,BRIGHT_FL,705a43fe,TC4_email_variation
+REC00502,Robert Williams,MLS961530,NC85361,382.457.2154,robert_williams@remax.com,Coldwell Banker,NC,FLEX_NC,234c0d9b,TC9_different_agents
+REC00364,Elizabeth White,MLS478666,TX-020082,631.506.8933,elizabeth.white@realty.com,Century 21,TX,NTREIS_TX,2505fb80,TC7_exact_duplicate
+REC00132,William Allen,MLS930884,FL15720,4399947730,wallen@gmail.com,Allen & Associates,FL,MFRMLS_FL,705a43fe,TC4_email_variation
+REC00331,Chris Brown,MLS668471,CA-34123,+19377599000,chris.brown@yahoo.com,Keller Williams,CA,CRMLS_CA,4ffdcfd0,TC6_similar_name_different_agent
+REC00411,James Thomas,MLS897423,NY81638,(705) 991-4201,james.thomas@remax.com,Keller Williams,NY,REBNY_NY,f878be27,TC9_different_agents
+REC00503,Patricia White,MLS106185,LIC-TX-80101,217-598-2938,white.patricia@gmail.com,Keller Williams,TX,SABOR_TX,40beaa73,TC9_different_agents
+REC00349,Barbara King,MLS386604,FL93115,9925341485,barbara.king@coldwellbanker.com,Century 21,FL,MFRMLS_FL,33156aa0,TC7_exact_duplicate
+REC00086,James Jones,MLS443254,FL61645,8377461441,james.jones@cbunited.com,Jones Properties,FL,MIAMI_FL,56254e57,TC2_multi_state
+REC00075,James King,MLS329471,NY64321,+19862748461,james.king@coldwellbanker.com,King Properties,NY,MLSLI_NY,a370ca94,TC2_multi_state
+REC00442,Patricia Smith,MLS893969,NY-025765,(784) 729-3415,psmith@realty.com,RE/MAX,NY,REBNY_NY,8582a4f5,TC9_different_agents
+REC00015,Billy Wilson,MLS771088,LIC-FL-58520,(850) 573-3664,billy_wilson@cbunited.com,Wilson Realty,FL,MFRMLS_FL,7efcda5f,TC1_name_variation
+REC00325,Chris Johnson,MLS297303,LIC-TX-19539,+15868891647,cjohnson@coldwellbanker.com,RE/MAX,TX,SABOR_TX,455a39f9,TC6_similar_name_different_agent
+REC00388,Linda Smith,,FL-023423,(759) 423-7965,,Smith Realty,FL,MFRMLS_FL,161dbada,TC8_missing_fields
+REC00019,J. Smith,MLS881177,LIC-CA-45093,+12325237572,j_smith@kw.com,Smith Realty,CA,CRMLS_CA,3f5b2c93,TC1_name_variation
+REC00324,Chris Johnson,MLS778120,FL-53288,4484614331,chrisj@yahoo.com,RE/MAX,FL,MFRMLS_FL,128cf509,TC6_similar_name_different_agent
+REC00334,Chris Jones,MLS952657,TX-075826,(748) 493-1280,chris.jones@yahoo.com,RE/MAX,TX,NTREIS_TX,e6454acf,TC6_similar_name_different_agent
+REC00056,Jennifer Thompson,MLS908577,TX22097,700.457.1832,jennifer.thompson@outlook.com,Thompson Properties,TX,SABOR_TX,890a2409,TC2_multi_state
+REC00338,Barbara Davis,MLS999908,CA-095686,507-900-2320,barbara.davis@yahoo.com,Century 21,CA,CRMLS_CA,bcad6057,TC7_exact_duplicate
+REC00408,James Thomas,MLS942127,FL-082465,(353) 383-1579,jamest@realty.com,Coldwell Banker,FL,BRIGHT_FL,a8d6c0ca,TC9_different_agents
+REC00333,Chris Jones,MLS106933,LIC-NY-12061,+16948758993,chris_jones@gmail.com,Keller Williams,NY,NYSMLS_NY,74e6294d,TC6_similar_name_different_agent
+REC00181,Michael White,MLS485415,NC-56090,494.814.6119,michaelw@realty.com,White & Associates,NC,NWMLS_NC,ba5fa866,TC4_email_variation
+REC00227,James Smith,MLS398768,FL-68222,5738924891,james.smith@realty.com,Smith Real Estate,FL,BRIGHT_FL,7700fe54,TC5_license_prefix
+REC00426,Michael Thomas,MLS690984,NY84403,+12289206761,mthomas@coldwellbanker.com,eXp Realty,NY,MLSLI_NY,7f159dae,TC9_different_agents
+REC00180,Michael White,MLS605612,NC56090,494-814-6119,mwhite@cbunited.com,White & Associates,NC,FLEX_NC,ba5fa866,TC4_email_variation
+REC00025,Pat Thompson,MLS407757,TX-099353,(766) 211-2876,pthompson@coldwellbanker.com,Thompson Realty,TX,SABOR_TX,9cb8e085,TC1_name_variation
+REC00329,Chris Brown,MLS259814,NY48691,798.793.7841,cbrown@remax.com,RE/MAX,NY,MLSLI_NY,8b89f1b6,TC6_similar_name_different_agent
+REC00238,William Harris,MLS140163,LIC-TX-61964,227.624.1872,william.harris@coldwellbanker.com,Harris Real Estate,TX,HAR_TX,f693dac2,TC5_license_prefix
+REC00244,Robert Martin,MLS101640,NY85372,+17482169443,robert.martin@cbunited.com,Martin Real Estate,NY,REBNY_NY,dad98f26,TC5_license_prefix
+REC00250,Linda Young,MLS870899,LIC-NY-61177,719.767.1333,linda.young@outlook.com,Young Real Estate,NY,REBNY_NY,7278bd49,TC5_license_prefix
+REC00417,Jennifer King,MLS845702,NC21955,420.535.3430,jennifer_king@gmail.com,Century 21,NC,NWMLS_NC,d61ba053,TC9_different_agents
+REC00117,Thomas Williams,MLS961322,98117,+18907891339,thomas.williams@gmail.com,Williams Realty Group,CA,CRMLS_CA,214a02e4,TC3_phone_changed
+REC00042,William Martin,MLS299448,LIC-CA-22704,6163942545,william.martin@outlook.com,Martin Properties,CA,CRMLS_CA,354453fa,TC2_multi_state
+REC00321,Chris Smith,MLS415098,64206,876-733-4621,smith.chris@outlook.com,Coldwell Banker,CA,MATRIX_CA,8a2de09b,TC6_similar_name_different_agent
+REC00346,Robert Taylor,MLS666820,CA98740,777.446.7375,robert.taylor@remax.com,Century 21,CA,CRMLS_CA,a09389b7,TC7_exact_duplicate
+REC00182,Linda King,MLS969752,89822,891-858-1430,linda.king@outlook.com,King & Associates,NY,MLSLI_NY,2bfd4d1b,TC4_email_variation
+REC00155,Thomas King,MLS766269,NY-094889,535.824.4626,thomas.king@remax.com,King & Associates,NY,REBNY_NY,952022d4,TC4_email_variation
+REC00280,John Brown,MLS757629,LIC-FL-75278,832.854.1496,johnb@coldwellbanker.com,RE/MAX,FL,BRIGHT_FL,dbd15e04,TC6_similar_name_different_agent
+REC00126,Jennifer Young,MLS851413,39451,+18633579165,jennifer.young@kw.com,Young Realty Group,NC,NWMLS_NC,04d2ce15,TC3_phone_changed
+REC00448,Robert Davis,MLS382507,CA-052056,+15079618259,robert.davis@realty.com,Coldwell Banker,CA,CRMLS_CA,4cd8c4e5,TC9_different_agents
+REC00031,J. Jones,MLS189814,TX-079514,980-365-9837,j_jones@outlook.com,Jones Realty,TX,NTREIS_TX,93f3392b,TC1_name_variation
+REC00113,William Wilson,MLS671015,NY25043,(877) 402-7965,william.wilson@kw.com,Wilson Realty Group,NY,REBNY_NY,7267e194,TC3_phone_changed
+REC00148,Jennifer Johnson,MLS892280,FL89482,481-208-1803,jenniferj@gmail.com,Johnson & Associates,FL,MIAMI_FL,29927e4a,TC4_email_variation
+REC00429,Robert Thomas,MLS438273,FL49552,(800) 303-6514,robert_thomas@coldwellbanker.com,Century 21,FL,MFRMLS_FL,cef5fc37,TC9_different_agents
+REC00400,Thomas Taylor,,CA-34726,730-821-9348,thomas.taylor@realty.com,Taylor Realty,CA,MATRIX_CA,4c2b17c5,TC8_missing_fields
+REC00057,Jennifer Thompson,MLS563298,LIC-NC-22097,7004571832,jennifer.thompson@gmail.com,Thompson Properties,NC,FLEX_NC,890a2409,TC2_multi_state
+REC00194,Barbara Smith,MLS685864,LIC-NC-27987,409.508.4460,barbara.smith@yahoo.com,Smith Real Estate,NC,NWMLS_NC,92a8c207,TC5_license_prefix
+REC00024,Patricia Thompson,MLS663054,99353,766.211.2876,patricia.thompson@yahoo.com,Thompson Realty,TX,NTREIS_TX,9cb8e085,TC1_name_variation
+REC00017,Jen Smith,MLS322955,CA-045093,2325237572,jsmith@coldwellbanker.com,Smith Realty,CA,NWMLS_CA,3f5b2c93,TC1_name_variation
+REC00297,David Smith,MLS908634,49008,(771) 505-4684,david_smith@cbunited.com,Coldwell Banker,TX,SABOR_TX,2793ecf7,TC6_similar_name_different_agent
+REC00066,William Jackson,MLS924629,46585,5364852137,william.jackson@yahoo.com,Jackson Properties,NC,FLEX_NC,427e77e7,TC2_multi_state
+REC00211,Barbara Miller,MLS572407,TX-29773,819-687-9214,barbara.miller@cbunited.com,Miller Real Estate,TX,HAR_TX,957fe149,TC5_license_prefix
+REC00403,Barbara Jones,MLS313068,TX-77017,(285) 517-2294,barbara.jones@remax.com,Jones Realty,TX,SABOR_TX,b53d5050,TC8_missing_fields
+REC00094,Michael Young,MLS479781,FL-076317,(701) 308-8102,michael.young@remax.com,Young Realty Group,FL,MIAMI_FL,c633550d,TC3_phone_changed
+REC00154,James Williams,MLS499534,83048,972-431-7511,jamesw@realty.com,Williams & Associates,CA,NWMLS_CA,b280c279,TC4_email_variation
+REC00440,Jennifer Harris,MLS164633,FL83956,469-431-5400,jennifer.harris@cbunited.com,eXp Realty,FL,MIAMI_FL,101c3db2,TC9_different_agents
+REC00023,M. Allen,MLS503457,FL-038746,+17976086930,m_allen@coldwellbanker.com,Allen Realty,FL,MFRMLS_FL,320a2e9c,TC1_name_variation
+REC00225,Michael Martin,MLS495019,20114,(431) 340-3538,michael.martin@outlook.com,Martin Real Estate,CA,CRMLS_CA,a66dc66f,TC5_license_prefix
+REC00432,Michael Anderson,MLS111949,68540,(851) 290-6500,manderson@yahoo.com,Century 21,CA,NWMLS_CA,08d16607,TC9_different_agents
+REC00446,Patricia Martin,MLS388792,NY-032570,(823) 684-1613,martin.patricia@remax.com,Keller Williams,NY,MLSLI_NY,2a8b3224,TC9_different_agents
+REC00005,Rob Davis,MLS263032,FL30926,803.484.1106,rdavis@yahoo.com,Davis Realty,FL,MIAMI_FL,06093853,TC1_name_variation
+REC00116,James Brown,MLS553014,45683,+12828121653,james.brown@kw.com,Brown Realty Group,FL,MIAMI_FL,f8c400df,TC3_phone_changed
+REC00045,Elizabeth Jackson,MLS411120,NY69638,202-599-5345,elizabeth.jackson@gmail.com,Jackson Properties,NY,REBNY_NY,18ed0618,TC2_multi_state
+REC00016,Jennifer Smith,MLS169403,CA45093,+12325237572,jennifer.smith@cbunited.com,Smith Realty,CA,CRMLS_CA,3f5b2c93,TC1_name_variation
+REC00467,William Garcia,MLS321449,FL-27197,+12194334675,garcia.william@outlook.com,Keller Williams,FL,MIAMI_FL,393949d5,TC9_different_agents
+REC00361,Linda Garcia,MLS381444,FL-49469,3733425405,linda.garcia@outlook.com,Century 21,FL,MFRMLS_FL,23198577,TC7_exact_duplicate
+REC00003,T. Brown,MLS688508,NC39256,+19594815012,t_brown@remax.com,Brown Realty,NC,CRMLS_NC,a5eaf10f,TC1_name_variation
+REC00294,Mary Jones,MLS119857,NC-035006,786.917.2800,mary_jones@outlook.com,Coldwell Banker,NC,FLEX_NC,34a68c7a,TC6_similar_name_different_agent
+REC00185,Elizabeth Johnson,MLS575682,59308,(964) 743-4524,elizabeth.johnson@cbunited.com,Johnson & Associates,NC,NWMLS_NC,9a7c5a64,TC4_email_variation
+REC00060,Michael Allen,MLS526117,LIC-NC-26704,(765) 351-8041,michael.allen@realty.com,Allen Properties,NC,FLEX_NC,dc1dfd2b,TC2_multi_state
+REC00110,Barbara King,MLS739244,NY-59856,(512) 782-1986,barbara.king@realty.com,King Realty Group,NY,MLSLI_NY,0c424b58,TC3_phone_changed
+REC00320,Sarah Jones,MLS628373,28367,(422) 972-1924,jones.sarah@cbunited.com,Century 21,NY,REBNY_NY,f87f3231,TC6_similar_name_different_agent
+REC00265,James Thomas,MLS940010,90589,(243) 944-6776,james.thomas@gmail.com,Thomas Real Estate,FL,MFRMLS_FL,2c1e48e2,TC5_license_prefix
+REC00029,Jim Jones,MLS120422,TX-79514,980.365.9837,jjones@kw.com,Jones Realty,TX,SABOR_TX,93f3392b,TC1_name_variation
+REC00262,Linda Wilson,MLS852524,LIC-NC-66440,9446342293,linda.wilson@outlook.com,Wilson Real Estate,NC,FLEX_NC,b1917b7f,TC5_license_prefix
+REC00477,Thomas Jones,MLS148205,FL-67761,699.315.7738,thomasj@gmail.com,eXp Realty,FL,BRIGHT_FL,ff23ed0b,TC9_different_agents
+REC00026,Patty Thompson,MLS103402,99353,+17662112876,pattyt@outlook.com,Thompson Realty,TX,HAR_TX,9cb8e085,TC1_name_variation
+REC00007,Bobby Davis,MLS988662,30926,+18034841106,bobby_davis@kw.com,Davis Realty,FL,MFRMLS_FL,06093853,TC1_name_variation
+REC00457,Patricia Anderson,MLS372028,CA-048745,9382269148,patricia_anderson@gmail.com,eXp Realty,CA,MATRIX_CA,cb648486,TC9_different_agents
+REC00108,Elizabeth Smith,MLS189318,TX62521,355-352-5978,elizabeth.smith@remax.com,Smith Realty Group,TX,SABOR_TX,0ca37c4a,TC3_phone_changed
+REC00037,Barb Johnson,MLS132938,10942,767-435-4608,bjohnson@realty.com,Johnson Realty,NY,MLSLI_NY,9f3737b4,TC1_name_variation
+REC00157,Thomas King,MLS221761,NY-94889,(535) 824-4626,thomask@outlook.com,King & Associates,NY,MLSLI_NY,952022d4,TC4_email_variation
+REC00471,William Wilson,MLS268163,NY-48712,+14065667713,william_wilson@realty.com,Coldwell Banker,NY,MLSLI_NY,5b09ff21,TC9_different_agents
+REC00118,Thomas Williams,MLS593355,LIC-CA-98117,9819743870,thomas.williams@kw.com,Williams Realty Group,CA,NWMLS_CA,214a02e4,TC3_phone_changed
+REC00114,William Wilson,MLS273982,25043,+13452731977,william.wilson@kw.com,Wilson Realty Group,NY,MLSLI_NY,7267e194,TC3_phone_changed
+REC00175,Barbara Thompson,MLS518098,TX-022999,664-717-8048,barbarat@cbunited.com,Thompson & Associates,TX,SABOR_TX,3870904a,TC4_email_variation
+REC00192,Barbara Smith,MLS108105,NC27987,4095084460,barbara.smith@remax.com,Smith Real Estate,NC,CRMLS_NC,92a8c207,TC5_license_prefix
+REC00272,John Smith,MLS309902,FL-74382,(419) 826-5678,john.smith@coldwellbanker.com,RE/MAX,FL,BRIGHT_FL,497d833b,TC6_similar_name_different_agent
+REC00144,Jennifer Young,MLS308894,CA-087014,2756526661,jyoung@yahoo.com,Young & Associates,CA,CRMLS_CA,35dcb509,TC4_email_variation
+REC00489,Barbara Taylor,MLS668843,76046,888-335-3913,barbarat@coldwellbanker.com,eXp Realty,TX,HAR_TX,e37c30b1,TC9_different_agents
+REC00382,Barbara Brown,MLS579776,35830,,barbara.brown@coldwellbanker.com,Brown Realty,NY,NYSMLS_NY,ecb338a9,TC8_missing_fields
+REC00355,Thomas Taylor,MLS238943,FL-023399,568-979-5419,thomas.taylor@outlook.com,Century 21,FL,MFRMLS_FL,a8230180,TC7_exact_duplicate
+REC00277,John Williams,MLS418897,NY30056,(256) 327-9488,johnw@realty.com,Century 21,NY,NYSMLS_NY,f10919eb,TC6_similar_name_different_agent
+REC00220,Jennifer Jackson,MLS836971,CA50577,+18099252388,jennifer.jackson@yahoo.com,Jackson Real Estate,CA,MATRIX_CA,3ab28108,TC5_license_prefix
+REC00449,Patricia Martin,MLS168804,30836,+15822579442,patricia_martin@outlook.com,eXp Realty,NY,NYSMLS_NY,040fe1f5,TC9_different_agents
+REC00141,Patricia Jones,MLS711484,CA32280,(743) 621-3950,pjones@coldwellbanker.com,Jones & Associates,CA,MATRIX_CA,e2acc578,TC4_email_variation
+REC00368,Patricia Anderson,MLS436241,FL-049378,+15426403230,patricia.anderson@realty.com,Century 21,FL,MFRMLS_FL,f3dc5606,TC7_exact_duplicate
+REC00067,Patricia Allen,MLS796503,67154,+13944601727,patricia.allen@cbunited.com,Allen Properties,TX,NTREIS_TX,ea291da4,TC2_multi_state
+REC00360,Barbara Anderson,MLS917018,LIC-FL-60829,212-498-7779,barbara.anderson@realty.com,Century 21,FL,MFRMLS_FL,2896fee8,TC7_exact_duplicate
+REC00168,Elizabeth Wilson,MLS638169,LIC-NC-78955,329-959-7897,ewilson@coldwellbanker.com,Wilson & Associates,NC,FLEX_NC,3a87bc74,TC4_email_variation
+REC00498,James Young,MLS352023,LIC-NC-68414,+13178846668,jyoung@gmail.com,Century 21,NC,NWMLS_NC,a40a921a,TC9_different_agents
+REC00378,Linda Jones,MLS536181,TX48722,225-694-2712,,Jones Realty,TX,SABOR_TX,d9cc2331,TC8_missing_fields
+REC00365,Barbara King,MLS107096,LIC-CA-49932,6683093219,barbara.king@cbunited.com,Century 21,CA,CRMLS_CA,ab5a37f3,TC7_exact_duplicate
+REC00193,Barbara Smith,MLS235461,27987,4095084460,barbara.smith@realty.com,Smith Real Estate,NC,FLEX_NC,92a8c207,TC5_license_prefix
+REC00249,Linda Young,MLS461551,61177,(719) 767-1333,linda.young@yahoo.com,Young Real Estate,NY,NYSMLS_NY,7278bd49,TC5_license_prefix
+REC00109,Barbara King,MLS572398,NY-059856,431.994.9561,barbara.king@remax.com,King Realty Group,NY,REBNY_NY,0c424b58,TC3_phone_changed
+REC00433,Robert Johnson,MLS534130,NC-031802,5956487875,robertj@remax.com,Keller Williams,NC,NWMLS_NC,012d5306,TC9_different_agents
+REC00145,Jennifer Young,MLS499889,LIC-CA-87014,275.652.6661,jennifery@kw.com,Young & Associates,CA,MATRIX_CA,35dcb509,TC4_email_variation
+REC00092,Robert Allen,MLS991597,LIC-NC-61990,304-913-5941,robert.allen@gmail.com,Allen Realty Group,NC,NWMLS_NC,95685d55,TC3_phone_changed
+REC00152,James Williams,MLS194689,CA-083048,972-431-7511,james.williams@kw.com,Williams & Associates,CA,MATRIX_CA,b280c279,TC4_email_variation
+REC00222,Jennifer Jackson,MLS480211,LIC-CA-50577,809.925.2388,jennifer.jackson@outlook.com,Jackson Real Estate,CA,CRMLS_CA,3ab28108,TC5_license_prefix
+REC00409,Michael Wilson,MLS806033,NC-75803,(785) 581-2956,mwilson@gmail.com,Coldwell Banker,NC,CRMLS_NC,eb031af7,TC9_different_agents
+REC00083,Barbara Johnson,MLS330080,72518,9837897232,barbara.johnson@coldwellbanker.com,Johnson Properties,FL,MIAMI_FL,1976f586,TC2_multi_state
+REC00248,Linda Young,MLS883618,NY61177,719-767-1333,linda.young@cbunited.com,Young Real Estate,NY,REBNY_NY,7278bd49,TC5_license_prefix
+REC00165,William Davis,MLS793169,TX-46342,(992) 351-1046,wdavis@gmail.com,Davis & Associates,TX,SABOR_TX,5fdfe87a,TC4_email_variation
+REC00163,Michael Smith,MLS315173,FL-69600,+14823943001,michaels@realty.com,Smith & Associates,FL,BRIGHT_FL,1a5a8d11,TC4_email_variation
+REC00199,William White,MLS882033,NY-61873,610.736.2288,william.white@realty.com,White Real Estate,NY,MLSLI_NY,2f145e59,TC5_license_prefix
+REC00231,Linda White,MLS772324,CA-42768,4048193267,linda.white@cbunited.com,White Real Estate,CA,MATRIX_CA,3f6e7f67,TC5_license_prefix
+REC00074,James King,MLS355836,FL64321,986-274-8461,james.king@yahoo.com,King Properties,FL,MIAMI_FL,a370ca94,TC2_multi_state
+REC00310,Sarah Smith,MLS965708,NY97044,(682) 975-9806,smith.sarah@yahoo.com,Coldwell Banker,NY,NYSMLS_NY,b6f660e3,TC6_similar_name_different_agent
+REC00454,William Wilson,MLS494763,65549,5129295511,williamw@realty.com,Coldwell Banker,NY,MLSLI_NY,4766ebcf,TC9_different_agents
+REC00253,Michael Young,MLS311383,72722,858-379-8612,michael.young@realty.com,Young Real Estate,TX,NTREIS_TX,0536a971,TC5_license_prefix
+REC00119,Elizabeth Allen,MLS464863,FL-071605,850.703.2494,elizabeth.allen@cbunited.com,Allen Realty Group,FL,MFRMLS_FL,94aecf5f,TC3_phone_changed
+REC00284,Mary Smith,MLS900190,TX34881,7919386123,smith.mary@coldwellbanker.com,Coldwell Banker,TX,SABOR_TX,e0e6ff54,TC6_similar_name_different_agent
+REC00301,David Williams,MLS677086,FL10679,3028973252,david_williams@coldwellbanker.com,RE/MAX,FL,MIAMI_FL,711a10bd,TC6_similar_name_different_agent
+REC00482,Linda Johnson,MLS689648,NC76628,8188335990,lindaj@cbunited.com,Keller Williams,NC,CRMLS_NC,8115ee10,TC9_different_agents
+REC00356,Thomas Taylor,MLS238943,FL-023399,568-979-5419,thomas.taylor@outlook.com,Century 21,FL,MFRMLS_FL,a8230180,TC7_exact_duplicate
+REC00402,Thomas Wilson,MLS400404,CA-76402,+12402617520,thomas.wilson@remax.com,Wilson Realty,CA,MATRIX_CA,2cc1a732,TC8_missing_fields
+REC00228,James Smith,MLS350786,FL68222,573.892.4891,james.smith@coldwellbanker.com,Smith Real Estate,FL,MFRMLS_FL,7700fe54,TC5_license_prefix
+REC00261,Linda Wilson,MLS410000,66440,944.634.2293,linda.wilson@coldwellbanker.com,Wilson Real Estate,NC,FLEX_NC,b1917b7f,TC5_license_prefix
+REC00237,William Harris,MLS203896,61964,227.624.1872,william.harris@outlook.com,Harris Real Estate,TX,NTREIS_TX,f693dac2,TC5_license_prefix
+REC00437,Robert Smith,MLS157152,30131,785-762-9043,robert_smith@yahoo.com,Century 21,FL,BRIGHT_FL,5e094eaf,TC9_different_agents
+REC00475,Elizabeth Brown,MLS823415,FL-060556,6096675453,ebrown@yahoo.com,RE/MAX,FL,BRIGHT_FL,924bac05,TC9_different_agents
+REC00036,Barbara Johnson,MLS174441,NY-10942,(767) 435-4608,barbara.johnson@yahoo.com,Johnson Realty,NY,REBNY_NY,9f3737b4,TC1_name_variation
+REC00196,Thomas White,MLS220768,NC85465,6702796129,thomas.white@gmail.com,White Real Estate,NC,NWMLS_NC,14a29624,TC5_license_prefix
+REC00139,Thomas King,MLS934816,NC-39817,440.846.5708,thomask@cbunited.com,King & Associates,NC,NWMLS_NC,9f3ddedd,TC4_email_variation
+REC00367,Patricia Anderson,MLS436241,FL-049378,+15426403230,patricia.anderson@realty.com,Century 21,FL,MFRMLS_FL,f3dc5606,TC7_exact_duplicate
+REC00247,Linda Young,MLS145649,NY-61177,7197671333,linda.young@cbunited.com,Young Real Estate,NY,MLSLI_NY,7278bd49,TC5_license_prefix
+REC00287,Mary Johnson,MLS520040,TX-15930,+19826126995,johnson.mary@realty.com,Century 21,TX,HAR_TX,dcbf7c8b,TC6_similar_name_different_agent
+REC00377,Robert Johnson,MLS685098,NC-077999,+14644279366,,Johnson Realty,NC,FLEX_NC,6f7690ed,TC8_missing_fields
+REC00059,Michael Allen,MLS815198,TX26704,765-351-8041,michael.allen@cbunited.com,Allen Properties,TX,NTREIS_TX,dc1dfd2b,TC2_multi_state
+REC00111,Jennifer Williams,MLS102805,CA-030517,4453772229,jennifer.williams@coldwellbanker.com,Williams Realty Group,CA,CRMLS_CA,0bb60a42,TC3_phone_changed
+REC00089,William Johnson,MLS833442,26544,836.356.4908,william.johnson@outlook.com,Johnson Properties,NY,MLSLI_NY,fbcca6e5,TC2_multi_state
+REC00266,James Thomas,MLS989894,LIC-FL-90589,+12439446776,james.thomas@coldwellbanker.com,Thomas Real Estate,FL,MFRMLS_FL,2c1e48e2,TC5_license_prefix
+REC00006,Bob Davis,MLS197251,FL-030926,803-484-1106,bobd@cbunited.com,Davis Realty,FL,BRIGHT_FL,06093853,TC1_name_variation
+REC00456,Robert Martin,MLS373832,46291,(544) 483-6327,rmartin@realty.com,Keller Williams,NC,FLEX_NC,f9c6692f,TC9_different_agents
+REC00347,Robert Thompson,MLS979414,LIC-TX-40427,254-300-8161,robert.thompson@cbunited.com,Century 21,TX,NTREIS_TX,bbdfca38,TC7_exact_duplicate
+REC00340,Patricia Jackson,MLS186702,32463,6872571154,patricia.jackson@remax.com,Century 21,NY,REBNY_NY,a1809850,TC7_exact_duplicate
+REC00158,James Thomas,MLS203831,NY-064379,+16298013531,james.thomas@remax.com,Thomas & Associates,NY,MLSLI_NY,526f8b59,TC4_email_variation
+REC00150,James Smith,MLS924718,LIC-NY-21813,573.949.3153,jsmith@kw.com,Smith & Associates,NY,REBNY_NY,652786fd,TC4_email_variation
+REC00177,Michael Wilson,MLS880758,18799,(356) 903-8770,mwilson@gmail.com,Wilson & Associates,TX,HAR_TX,4268ac48,TC4_email_variation
+REC00396,Jennifer Davis,MLS323788,,(871) 293-2559,jennifer.davis@coldwellbanker.com,Davis Realty,FL,MFRMLS_FL,d203ba24,TC8_missing_fields
+REC00184,Linda King,MLS290217,NY89822,+18918581430,lindak@remax.com,King & Associates,NY,REBNY_NY,2bfd4d1b,TC4_email_variation
+REC00317,Sarah Brown,MLS657772,NC-065591,(505) 674-9920,sbrown@coldwellbanker.com,Century 21,NC,CRMLS_NC,3c2e948b,TC6_similar_name_different_agent
+REC00010,Beth Smith,MLS793384,FL20328,749.327.7201,beths@yahoo.com,Smith Realty,FL,BRIGHT_FL,1505862c,TC1_name_variation
+REC00383,Patricia Allen,,90918,556.560.8501,patricia.allen@yahoo.com,Allen Realty,NC,NWMLS_NC,de5aa1be,TC8_missing_fields
+REC00103,Linda Garcia,MLS859782,LIC-CA-46241,+14219568933,linda.garcia@kw.com,Garcia Realty Group,CA,CRMLS_CA,674ba110,TC3_phone_changed
+REC00081,William Wilson,MLS165290,FL40735,6502795681,william.wilson@remax.com,Wilson Properties,FL,MIAMI_FL,09b4f7da,TC2_multi_state
+REC00038,Babs Johnson,MLS392004,NY-010942,(767) 435-4608,babsj@outlook.com,Johnson Realty,NY,NYSMLS_NY,9f3737b4,TC1_name_variation
+REC00316,Sarah Brown,MLS287143,LIC-NY-25549,3368696697,brown.sarah@outlook.com,RE/MAX,NY,REBNY_NY,38b7420b,TC6_similar_name_different_agent
+REC00167,Elizabeth Wilson,MLS881886,NC-78955,3299597897,elizabeth.wilson@coldwellbanker.com,Wilson & Associates,NC,NWMLS_NC,3a87bc74,TC4_email_variation
+REC00474,Robert Brown,MLS474894,NC-053078,+12093413793,robertb@yahoo.com,Century 21,NC,NWMLS_NC,bb2d1658,TC9_different_agents
+REC00298,David Smith,MLS701334,LIC-NY-25974,9384805715,david_smith@cbunited.com,RE/MAX,NY,MLSLI_NY,53ad53f6,TC6_similar_name_different_agent
+REC00404,William Smith,MLS742039,,288.644.2900,william.smith@outlook.com,Smith Realty,CA,MATRIX_CA,95fe5633,TC8_missing_fields
+REC00198,Thomas White,MLS479430,LIC-NC-85465,670-279-6129,thomas.white@remax.com,White Real Estate,NC,CRMLS_NC,14a29624,TC5_license_prefix
+REC00376,Barbara Williams,MLS778428,31802,+19874546816,barbara.williams@remax.com,Williams Realty,NC,NWMLS_NC,1117e12c,TC8_missing_fields
+REC00146,Jennifer Johnson,MLS620856,89482,(481) 208-1803,jennifer.johnson@cbunited.com,Johnson & Associates,FL,MFRMLS_FL,29927e4a,TC4_email_variation
+REC00395,Patricia Miller,,CA45916,865.509.3604,,Miller Realty,CA,MATRIX_CA,0e675e1c,TC8_missing_fields
+REC00147,Jennifer Johnson,MLS767542,FL89482,+14812081803,jjohnson@kw.com,Johnson & Associates,FL,BRIGHT_FL,29927e4a,TC4_email_variation
+REC00483,James Anderson,MLS480941,NY-096136,985-834-8751,james.anderson@realty.com,Keller Williams,NY,MLSLI_NY,7d22ed07,TC9_different_agents
+REC00289,Mary Williams,MLS308727,LIC-TX-28909,+15477716990,mary_williams@gmail.com,Keller Williams,TX,NTREIS_TX,449b56bf,TC6_similar_name_different_agent
+REC00123,Barbara Martin,MLS675898,FL45003,978.252.4335,barbara.martin@coldwellbanker.com,Martin Realty Group,FL,MFRMLS_FL,aa918b5b,TC3_phone_changed
+REC00371,Jennifer Jackson,MLS672133,TX-087624,(316) 777-4273,jennifer.jackson@gmail.com,Century 21,TX,NTREIS_TX,e501dc73,TC7_exact_duplicate
+REC00096,Elizabeth Thompson,MLS572700,TX70931,4512885569,elizabeth.thompson@remax.com,Thompson Realty Group,TX,SABOR_TX,b42c48dd,TC3_phone_changed
+REC00143,Jennifer Young,MLS769975,CA-087014,275.652.6661,jennifer.young@coldwellbanker.com,Young & Associates,CA,NWMLS_CA,35dcb509,TC4_email_variation
+REC00239,Elizabeth Martin,MLS326130,FL-12490,(830) 205-2298,elizabeth.martin@remax.com,Martin Real Estate,FL,MFRMLS_FL,6faeeebe,TC5_license_prefix
+REC00275,John Johnson,MLS190403,NY-90209,577.678.3126,john_johnson@coldwellbanker.com,Coldwell Banker,NY,MLSLI_NY,763c2d0e,TC6_similar_name_different_agent
+REC00097,Michael Johnson,MLS472060,37802,532.386.8988,michael.johnson@kw.com,Johnson Realty Group,FL,MFRMLS_FL,f86fd551,TC3_phone_changed
+REC00352,Michael Young,MLS909676,FL21232,+16423907227,michael.young@kw.com,Century 21,FL,MFRMLS_FL,c6fd6583,TC7_exact_duplicate
+REC00122,Patricia Young,MLS533321,NC-43082,(873) 755-8569,patricia.young@cbunited.com,Young Realty Group,NC,NWMLS_NC,5217f2f0,TC3_phone_changed
+REC00183,Linda King,MLS836833,89822,891.858.1430,lking@cbunited.com,King & Associates,NY,REBNY_NY,2bfd4d1b,TC4_email_variation
+REC00202,William White,MLS468154,LIC-NY-61873,(610) 736-2288,william.white@realty.com,White Real Estate,NY,REBNY_NY,2f145e59,TC5_license_prefix
+REC00246,Robert Martin,MLS800674,LIC-NY-85372,748-216-9443,robert.martin@cbunited.com,Martin Real Estate,NY,REBNY_NY,dad98f26,TC5_license_prefix
+REC00307,David Jones,MLS445637,44995,+15924418319,jones.david@gmail.com,Century 21,TX,HAR_TX,beefc195,TC6_similar_name_different_agent
+REC00422,Patricia Young,MLS243902,FL-060202,(262) 289-5583,young.patricia@realty.com,eXp Realty,FL,MFRMLS_FL,66356026,TC9_different_agents
+REC00353,Robert Williams,MLS432061,TX-61068,357.589.3527,robert.williams@yahoo.com,Century 21,TX,NTREIS_TX,0ee9817e,TC7_exact_duplicate
+REC00302,David Williams,MLS783984,LIC-TX-21725,(492) 861-1969,williams.david@gmail.com,RE/MAX,TX,SABOR_TX,2d05c7d2,TC6_similar_name_different_agent
+REC00398,Elizabeth Williams,MLS468247,NY-67684,(776) 208-3688,elizabeth.williams@coldwellbanker.com,Williams Realty,NY,REBNY_NY,62d17edf,TC8_missing_fields
+REC00286,Mary Johnson,MLS662761,FL-47453,811-869-8710,mary_johnson@outlook.com,Century 21,FL,BRIGHT_FL,eb033fe8,TC6_similar_name_different_agent
+REC00125,Jennifer Young,MLS982277,NC-39451,7656172527,jennifer.young@yahoo.com,Young Realty Group,NC,CRMLS_NC,04d2ce15,TC3_phone_changed
+REC00304,David Brown,MLS240718,LIC-FL-74738,8567569590,davidb@realty.com,Keller Williams,FL,MIAMI_FL,1e104575,TC6_similar_name_different_agent
+REC00223,Michael Martin,MLS985447,CA-20114,431-340-3538,michael.martin@gmail.com,Martin Real Estate,CA,MATRIX_CA,a66dc66f,TC5_license_prefix
+REC00421,Patricia White,MLS393448,CA-046042,(562) 419-4066,patricia.white@realty.com,Century 21,CA,NWMLS_CA,45fde2fd,TC9_different_agents
+REC00219,Jennifer Jackson,MLS494976,CA-50577,809.925.2388,jennifer.jackson@outlook.com,Jackson Real Estate,CA,MATRIX_CA,3ab28108,TC5_license_prefix
+REC00129,Jennifer Taylor,MLS568238,LIC-NY-29476,7938759022,jennifer.taylor@cbunited.com,Taylor Realty Group,NY,REBNY_NY,3270a008,TC3_phone_changed
+REC00423,Patricia Thomas,MLS626797,84141,7576966636,patriciat@outlook.com,Keller Williams,FL,MIAMI_FL,e2b961a9,TC9_different_agents
+REC00291,Mary Williams,MLS452713,LIC-TX-87820,+13666025902,williams.mary@coldwellbanker.com,Century 21,TX,SABOR_TX,c563f693,TC6_similar_name_different_agent
+REC00492,Linda Davis,MLS826596,NY-47701,5984439370,linda_davis@remax.com,Century 21,NY,NYSMLS_NY,01930867,TC9_different_agents
+REC00393,Robert Harris,MLS550513,38551,2647477516,,Harris Realty,TX,NTREIS_TX,65b4ef20,TC8_missing_fields
+REC00479,Patricia Jones,MLS264550,LIC-NY-94331,8272551190,patricia_jones@outlook.com,Keller Williams,NY,MLSLI_NY,98ae74e1,TC9_different_agents
+REC00357,James Young,MLS193972,LIC-NY-13442,724.617.2692,james.young@yahoo.com,Century 21,NY,REBNY_NY,c6e4d4b4,TC7_exact_duplicate
+REC00296,David Smith,MLS672808,54869,377.670.9734,smith.david@coldwellbanker.com,RE/MAX,TX,NTREIS_TX,d0442c5d,TC6_similar_name_different_agent
+REC00369,Michael Garcia,MLS919959,FL-085481,(526) 498-9044,michael.garcia@cbunited.com,Century 21,FL,MFRMLS_FL,8097a272,TC7_exact_duplicate
+REC00342,Barbara Brown,MLS598598,NY-84289,243.435.4463,barbara.brown@gmail.com,Century 21,NY,REBNY_NY,1ead61bd,TC7_exact_duplicate
+REC00112,Jennifer Williams,MLS402099,30517,4982334792,jennifer.williams@yahoo.com,Williams Realty Group,CA,NWMLS_CA,0bb60a42,TC3_phone_changed
+REC00179,Michael White,MLS705991,LIC-NC-56090,(494) 814-6119,michael.white@outlook.com,White & Associates,NC,FLEX_NC,ba5fa866,TC4_email_variation
+REC00418,Elizabeth Johnson,MLS584487,FL-22415,(663) 769-5093,elizabeth.johnson@gmail.com,Keller Williams,FL,MFRMLS_FL,35fa64e8,TC9_different_agents
+REC00341,Barbara Brown,MLS598598,NY-84289,243.435.4463,barbara.brown@gmail.com,Century 21,NY,REBNY_NY,1ead61bd,TC7_exact_duplicate
+REC00332,Chris Jones,MLS109585,CA29795,+18454362113,chris_jones@cbunited.com,Keller Williams,CA,MATRIX_CA,7cf6d4be,TC6_similar_name_different_agent
+REC00486,James Harris,MLS656127,NY-10568,+17163379172,james_harris@coldwellbanker.com,eXp Realty,NY,REBNY_NY,b8039f1b,TC9_different_agents
+REC00362,Linda Garcia,MLS381444,FL-49469,3733425405,linda.garcia@outlook.com,Century 21,FL,MFRMLS_FL,23198577,TC7_exact_duplicate
+REC00233,Linda White,MLS187949,42768,(404) 819-3267,linda.white@kw.com,White Real Estate,CA,NWMLS_CA,3f6e7f67,TC5_license_prefix
+REC00472,William Johnson,MLS801520,NC-085255,(887) 291-2809,william.johnson@yahoo.com,Keller Williams,NC,NWMLS_NC,69727934,TC9_different_agents
+REC00164,William Davis,MLS236306,LIC-TX-46342,992.351.1046,william.davis@outlook.com,Davis & Associates,TX,NTREIS_TX,5fdfe87a,TC4_email_variation
+REC00136,Robert Thompson,MLS659543,FL-063736,215.939.3361,robertt@coldwellbanker.com,Thompson & Associates,FL,BRIGHT_FL,862781a0,TC4_email_variation
+REC00197,Thomas White,MLS280222,85465,+16702796129,thomas.white@coldwellbanker.com,White Real Estate,NC,FLEX_NC,14a29624,TC5_license_prefix
+REC00258,James Wilson,MLS295892,LIC-NC-47501,9718624131,james.wilson@coldwellbanker.com,Wilson Real Estate,NC,NWMLS_NC,470debc5,TC5_license_prefix
+REC00232,Linda White,MLS207573,CA42768,+14048193267,linda.white@yahoo.com,White Real Estate,CA,NWMLS_CA,3f6e7f67,TC5_license_prefix
+REC00115,James Brown,MLS624783,LIC-FL-45683,9055117594,james.brown@coldwellbanker.com,Brown Realty Group,FL,MFRMLS_FL,f8c400df,TC3_phone_changed
+REC00120,Elizabeth Allen,MLS445824,FL-071605,8863073634,elizabeth.allen@kw.com,Allen Realty Group,FL,MIAMI_FL,94aecf5f,TC3_phone_changed
+REC00351,Michael Young,MLS909676,FL21232,+16423907227,michael.young@kw.com,Century 21,FL,MFRMLS_FL,c6fd6583,TC7_exact_duplicate
+REC00224,Michael Martin,MLS453123,CA20114,+14313403538,michael.martin@outlook.com,Martin Real Estate,CA,MATRIX_CA,a66dc66f,TC5_license_prefix
+REC00405,Thomas Garcia,MLS275073,43980,(555) 735-9474,thomasg@yahoo.com,Keller Williams,FL,MIAMI_FL,9311dcf3,TC9_different_agents
+REC00436,Elizabeth Smith,MLS831063,LIC-NC-63645,+15394104112,elizabeths@kw.com,Century 21,NC,CRMLS_NC,81a4e285,TC9_different_agents
+REC00127,Patricia Martin,MLS299869,LIC-FL-60277,+14496673369,patricia.martin@outlook.com,Martin Realty Group,FL,MFRMLS_FL,4faa03f8,TC3_phone_changed
+REC00285,Mary Smith,MLS579441,FL76249,(223) 292-7442,smith.mary@cbunited.com,Keller Williams,FL,MFRMLS_FL,53de962b,TC6_similar_name_different_agent
+REC00414,Patricia Williams,MLS237057,NY96827,781.263.8126,patriciaw@cbunited.com,Coldwell Banker,NY,NYSMLS_NY,565bc5e9,TC9_different_agents
+REC00107,Elizabeth Smith,MLS615633,TX-62521,+16893162070,elizabeth.smith@gmail.com,Smith Realty Group,TX,NTREIS_TX,0ca37c4a,TC3_phone_changed
+REC00373,William Harris,MLS623557,TX98208,(909) 270-7703,william.harris@kw.com,Century 21,TX,NTREIS_TX,b21a78c0,TC7_exact_duplicate
+REC00370,Michael Garcia,MLS919959,FL-085481,(526) 498-9044,michael.garcia@cbunited.com,Century 21,FL,MFRMLS_FL,8097a272,TC7_exact_duplicate
+REC00133,William Allen,MLS626690,LIC-FL-15720,439.994.7730,williama@yahoo.com,Allen & Associates,FL,MIAMI_FL,705a43fe,TC4_email_variation
+REC00399,Robert Allen,MLS359822,LIC-FL-28327,,,Allen Realty,FL,MIAMI_FL,620c3d39,TC8_missing_fields
+REC00044,Patricia Garcia,MLS604740,NY19880,4856735092,patricia.garcia@gmail.com,Garcia Properties,NY,MLSLI_NY,5ec5dc25,TC2_multi_state
+REC00465,Thomas Johnson,MLS235193,CA-50906,4319106641,johnson.thomas@kw.com,RE/MAX,CA,CRMLS_CA,3dec995f,TC9_different_agents
+REC00065,William Jackson,MLS213668,LIC-TX-46585,5364852137,william.jackson@cbunited.com,Jackson Properties,TX,NTREIS_TX,427e77e7,TC2_multi_state
+REC00283,John Jones,MLS247720,FL-42495,325-473-8366,johnj@remax.com,Coldwell Banker,FL,MFRMLS_FL,2664b674,TC6_similar_name_different_agent
+REC00085,James Jones,MLS584125,NC61645,837-746-1441,james.jones@kw.com,Jones Properties,NC,CRMLS_NC,56254e57,TC2_multi_state
+REC00242,Elizabeth Martin,MLS769989,LIC-FL-12490,+18302052298,elizabeth.martin@coldwellbanker.com,Martin Real Estate,FL,MFRMLS_FL,6faeeebe,TC5_license_prefix
+REC00186,Elizabeth Johnson,MLS856648,59308,+19647434524,ejohnson@yahoo.com,Johnson & Associates,NC,CRMLS_NC,9a7c5a64,TC4_email_variation
+REC00386,Patricia Young,,NY99744,8687067703,patricia.young@yahoo.com,Young Realty,NY,MLSLI_NY,1772f5f2,TC8_missing_fields
+REC00159,James Thomas,MLS134305,64379,(629) 801-3531,jthomas@coldwellbanker.com,Thomas & Associates,NY,MLSLI_NY,526f8b59,TC4_email_variation
+REC00012,William Wilson,MLS472528,FL58520,850.573.3664,william.wilson@yahoo.com,Wilson Realty,FL,MFRMLS_FL,7efcda5f,TC1_name_variation
+REC00035,L. Jones,MLS359947,FL79163,762-369-5342,l_jones@cbunited.com,Jones Realty,FL,MFRMLS_FL,c05b71f2,TC1_name_variation
+REC00028,James Jones,MLS100599,LIC-TX-79514,980.365.9837,james.jones@coldwellbanker.com,Jones Realty,TX,NTREIS_TX,93f3392b,TC1_name_variation
+REC00170,Thomas Smith,MLS565108,FL-74260,611-636-2768,thomas.smith@cbunited.com,Smith & Associates,FL,BRIGHT_FL,5c62f438,TC4_email_variation
+REC00142,Patricia Jones,MLS366314,CA-032280,743.621.3950,patriciaj@gmail.com,Jones & Associates,CA,NWMLS_CA,e2acc578,TC4_email_variation
+REC00416,James Anderson,MLS573869,37215,3237486870,jamesa@yahoo.com,Keller Williams,FL,MFRMLS_FL,66000e08,TC9_different_agents
+REC00424,Barbara Davis,MLS655149,71824,+19974871959,bdavis@outlook.com,Keller Williams,NC,CRMLS_NC,2cada1a0,TC9_different_agents
+REC00221,Jennifer Jackson,MLS803024,50577,8099252388,jennifer.jackson@cbunited.com,Jackson Real Estate,CA,CRMLS_CA,3ab28108,TC5_license_prefix
+REC00095,Elizabeth Thompson,MLS556732,LIC-TX-70931,830.751.8921,elizabeth.thompson@cbunited.com,Thompson Realty Group,TX,NTREIS_TX,b42c48dd,TC3_phone_changed
+REC00051,Patricia Jones,MLS690341,NC-69929,887-860-5915,patricia.jones@realty.com,Jones Properties,NC,FLEX_NC,9da901bf,TC2_multi_state
+REC00240,Elizabeth Martin,MLS913875,FL12490,830.205.2298,elizabeth.martin@realty.com,Martin Real Estate,FL,MIAMI_FL,6faeeebe,TC5_license_prefix
+REC00375,Jennifer Jones,MLS602514,88372,+15862758357,jennifer.jones@remax.com,Jones Realty,FL,BRIGHT_FL,8d31fb99,TC8_missing_fields
+REC00381,Elizabeth White,MLS720970,,229-955-4232,elizabeth.white@realty.com,White Realty,FL,MFRMLS_FL,9e9adf8d,TC8_missing_fields
+REC00178,Michael Wilson,MLS688866,LIC-TX-18799,356.903.8770,michaelw@yahoo.com,Wilson & Associates,TX,SABOR_TX,4268ac48,TC4_email_variation
+REC00041,William Martin,MLS863587,22704,616-394-2545,william.martin@realty.com,Martin Properties,FL,MIAMI_FL,354453fa,TC2_multi_state
+REC00439,James Martin,MLS293862,60793,2938579914,jamesm@outlook.com,Coldwell Banker,TX,NTREIS_TX,c4088f2b,TC9_different_agents
+REC00390,Barbara Thomas,MLS439375,,487.811.9827,,Thomas Realty,NY,NYSMLS_NY,7f3057c9,TC8_missing_fields
+REC00206,Elizabeth Wilson,MLS431495,LIC-CA-95918,(377) 816-3504,elizabeth.wilson@coldwellbanker.com,Wilson Real Estate,CA,CRMLS_CA,9d89a813,TC5_license_prefix
+REC00282,John Jones,MLS518084,CA55268,520.935.6231,jones.john@yahoo.com,Century 21,CA,CRMLS_CA,e53b0158,TC6_similar_name_different_agent
+REC00254,Michael Young,MLS430926,LIC-TX-72722,858.379.8612,michael.young@remax.com,Young Real Estate,TX,HAR_TX,0536a971,TC5_license_prefix
+REC00415,Michael Anderson,MLS242723,LIC-FL-36569,478-439-2223,manderson@yahoo.com,RE/MAX,FL,MIAMI_FL,c3df55e1,TC9_different_agents
+REC00004,Robert Davis,MLS832052,FL-030926,803.484.1106,robert.davis@kw.com,Davis Realty,FL,MFRMLS_FL,06093853,TC1_name_variation
+REC00256,James Wilson,MLS230521,NC47501,971.862.4131,james.wilson@remax.com,Wilson Real Estate,NC,NWMLS_NC,470debc5,TC5_license_prefix
+REC00452,Michael Thomas,MLS128783,CA-047364,464-966-2480,mthomas@realty.com,RE/MAX,CA,MATRIX_CA,000dacf5,TC9_different_agents
+REC00100,Robert Davis,MLS524045,FL72402,295.501.4630,robert.davis@cbunited.com,Davis Realty Group,FL,MIAMI_FL,69958d9c,TC3_phone_changed
+REC00226,Michael Martin,MLS971728,LIC-CA-20114,+14313403538,michael.martin@outlook.com,Martin Real Estate,CA,MATRIX_CA,a66dc66f,TC5_license_prefix
+REC00431,Barbara Smith,MLS693022,CA-93839,8165254619,bsmith@cbunited.com,Keller Williams,CA,CRMLS_CA,909d7d35,TC9_different_agents
+REC00213,Barbara Miller,MLS359778,29773,8196879214,barbara.miller@coldwellbanker.com,Miller Real Estate,TX,HAR_TX,957fe149,TC5_license_prefix
+REC00425,William Wilson,MLS987624,NY-085457,954.257.4594,wwilson@outlook.com,RE/MAX,NY,NYSMLS_NY,bd503f5d,TC9_different_agents
+REC00171,Thomas Smith,MLS255539,FL-74260,(611) 636-2768,tsmith@kw.com,Smith & Associates,FL,BRIGHT_FL,5c62f438,TC4_email_variation
+REC00098,Michael Johnson,MLS682789,FL-37802,+18109185526,michael.johnson@realty.com,Johnson Realty Group,FL,MIAMI_FL,f86fd551,TC3_phone_changed
+REC00292,Mary Brown,MLS712056,64596,539-889-2795,brown.mary@coldwellbanker.com,Century 21,TX,HAR_TX,5ffcba44,TC6_similar_name_different_agent
+REC00215,Michael Taylor,MLS154909,FL-98984,618.993.6543,michael.taylor@yahoo.com,Taylor Real Estate,FL,MIAMI_FL,dbb0963b,TC5_license_prefix
+REC00061,Michael Allen,MLS938742,CA26704,7653518041,michael.allen@gmail.com,Allen Properties,CA,CRMLS_CA,dc1dfd2b,TC2_multi_state
+REC00047,Elizabeth Jackson,MLS994141,LIC-NC-69638,(202) 599-5345,elizabeth.jackson@gmail.com,Jackson Properties,NC,FLEX_NC,18ed0618,TC2_multi_state
+REC00032,Linda Jones,MLS736059,FL-079163,(762) 369-5342,linda.jones@realty.com,Jones Realty,FL,MFRMLS_FL,c05b71f2,TC1_name_variation
+REC00267,Elizabeth Williams,MLS694799,CA-57467,997-860-7001,elizabeth.williams@outlook.com,Williams Real Estate,CA,MATRIX_CA,0b826893,TC5_license_prefix
+REC00327,Chris Williams,MLS374267,50425,+16777466886,chris_williams@coldwellbanker.com,Keller Williams,FL,BRIGHT_FL,62e85254,TC6_similar_name_different_agent
+REC00200,William White,MLS916964,NY61873,(610) 736-2288,william.white@yahoo.com,White Real Estate,NY,NYSMLS_NY,2f145e59,TC5_license_prefix
+REC00450,Thomas Garcia,MLS578621,CA-14334,405.259.5087,tgarcia@kw.com,Century 21,CA,NWMLS_CA,44d9f5d5,TC9_different_agents
+REC00027,Tricia Thompson,MLS632342,TX-99353,766.211.2876,tricia_thompson@realty.com,Thompson Realty,TX,NTREIS_TX,9cb8e085,TC1_name_variation
+REC00392,Jennifer White,MLS640659,FL-62802,662.277.2525,jennifer.white@coldwellbanker.com,White Realty,FL,BRIGHT_FL,aa23fec2,TC8_missing_fields
+REC00230,James Smith,MLS906814,LIC-FL-68222,573.892.4891,james.smith@remax.com,Smith Real Estate,FL,BRIGHT_FL,7700fe54,TC5_license_prefix
+REC00260,Linda Wilson,MLS207581,NC66440,944-634-2293,linda.wilson@cbunited.com,Wilson Real Estate,NC,FLEX_NC,b1917b7f,TC5_license_prefix
+REC00288,Mary Johnson,MLS901535,LIC-TX-69028,275.595.9261,johnson.mary@yahoo.com,RE/MAX,TX,NTREIS_TX,f0dc3415,TC6_similar_name_different_agent
+REC00162,Michael Smith,MLS925013,69600,(482) 394-3001,msmith@outlook.com,Smith & Associates,FL,BRIGHT_FL,1a5a8d11,TC4_email_variation
+REC00428,William Jones,MLS122977,TX17806,+19343816301,wjones@yahoo.com,eXp Realty,TX,SABOR_TX,3e6353d2,TC9_different_agents
+REC00138,Thomas King,MLS274446,39817,440-846-5708,tking@gmail.com,King & Associates,NC,NWMLS_NC,9f3ddedd,TC4_email_variation
+REC00062,Elizabeth Anderson,MLS333238,FL44970,6218855065,elizabeth.anderson@cbunited.com,Anderson Properties,FL,MIAMI_FL,9167a920,TC2_multi_state
+REC00135,Robert Thompson,MLS753534,FL-063736,215-939-3361,rthompson@cbunited.com,Thompson & Associates,FL,BRIGHT_FL,862781a0,TC4_email_variation
+REC00128,Patricia Martin,MLS456385,LIC-FL-60277,271.482.7798,patricia.martin@gmail.com,Martin Realty Group,FL,MIAMI_FL,4faa03f8,TC3_phone_changed
+REC00481,Barbara Harris,MLS621533,NC-25559,710-657-6178,barbara_harris@remax.com,Keller Williams,NC,FLEX_NC,3dc2efca,TC9_different_agents
+REC00008,Elizabeth Smith,MLS678856,20328,+17493277201,elizabeth.smith@cbunited.com,Smith Realty,FL,MFRMLS_FL,1505862c,TC1_name_variation
+REC00326,Chris Williams,MLS354377,LIC-NC-72773,(416) 394-2922,chris_williams@realty.com,Century 21,NC,NWMLS_NC,d7b25460,TC6_similar_name_different_agent
+REC00468,Thomas Jackson,MLS150290,TX-87846,989-747-1796,thomas.jackson@yahoo.com,Coldwell Banker,TX,SABOR_TX,1bc52912,TC9_different_agents
+REC00064,William Jackson,MLS373903,NY46585,+15364852137,william.jackson@kw.com,Jackson Properties,NY,REBNY_NY,427e77e7,TC2_multi_state
+REC00300,David Johnson,MLS153231,LIC-TX-41779,(340) 311-4920,djohnson@gmail.com,Keller Williams,TX,SABOR_TX,3b361239,TC6_similar_name_different_agent
+REC00014,Bill Wilson,MLS271339,FL-058520,8505733664,billw@kw.com,Wilson Realty,FL,BRIGHT_FL,7efcda5f,TC1_name_variation
+REC00156,Thomas King,MLS246566,NY-94889,535-824-4626,tking@kw.com,King & Associates,NY,MLSLI_NY,952022d4,TC4_email_variation
+REC00040,William Martin,MLS864491,TX-22704,616-394-2545,william.martin@gmail.com,Martin Properties,TX,SABOR_TX,354453fa,TC2_multi_state
+REC00379,James Miller,MLS559450,,6945568801,james.miller@kw.com,Miller Realty,NY,REBNY_NY,433daa6f,TC8_missing_fields
+REC00464,Patricia Jackson,MLS659711,FL14944,688.592.1076,patricia.jackson@cbunited.com,eXp Realty,FL,MFRMLS_FL,4f65f94d,TC9_different_agents
+REC00406,Patricia Wilson,MLS577309,LIC-NY-75031,265.469.2262,patricia.wilson@coldwellbanker.com,eXp Realty,NY,REBNY_NY,5ccdfad1,TC9_different_agents
+REC00216,Michael Taylor,MLS199096,FL98984,+16189936543,michael.taylor@remax.com,Taylor Real Estate,FL,MIAMI_FL,dbb0963b,TC5_license_prefix
+REC00279,John Brown,MLS143195,NY-83874,357-375-6531,john.brown@kw.com,RE/MAX,NY,NYSMLS_NY,e11bccae,TC6_similar_name_different_agent
+REC00438,Barbara Martin,MLS769191,32391,299-226-4390,barbara_martin@yahoo.com,Century 21,CA,NWMLS_CA,ee30e678,TC9_different_agents
+REC00434,Barbara Davis,MLS121053,48654,662.275.1547,barbara.davis@yahoo.com,Century 21,CA,CRMLS_CA,e810e9af,TC9_different_agents
+REC00337,Barbara Davis,MLS999908,CA-095686,507-900-2320,barbara.davis@yahoo.com,Century 21,CA,CRMLS_CA,bcad6057,TC7_exact_duplicate
+REC00236,William Harris,MLS493124,TX61964,(227) 624-1872,william.harris@gmail.com,Harris Real Estate,TX,SABOR_TX,f693dac2,TC5_license_prefix
+REC00207,James Harris,MLS177794,TX-56129,481.805.1920,james.harris@coldwellbanker.com,Harris Real Estate,TX,SABOR_TX,2fef3194,TC5_license_prefix
+REC00212,Barbara Miller,MLS188425,TX29773,+18196879214,barbara.miller@outlook.com,Miller Real Estate,TX,NTREIS_TX,957fe149,TC5_license_prefix
+REC00295,Mary Jones,MLS840058,CA18163,+16207138726,mjones@cbunited.com,Coldwell Banker,CA,MATRIX_CA,03e39c9a,TC6_similar_name_different_agent
+REC00461,Barbara Williams,MLS500209,LIC-FL-99220,399.712.2963,barbara_williams@gmail.com,RE/MAX,FL,MFRMLS_FL,bbf3adb0,TC9_different_agents
+REC00251,Michael Young,MLS291132,TX-72722,(858) 379-8612,michael.young@yahoo.com,Young Real Estate,TX,HAR_TX,0536a971,TC5_license_prefix
+REC00493,Thomas Johnson,MLS764575,39563,+14078358259,johnson.thomas@realty.com,RE/MAX,TX,SABOR_TX,14196cae,TC9_different_agents
+REC00462,William Anderson,MLS850432,FL51469,783-668-3346,william_anderson@cbunited.com,RE/MAX,FL,MIAMI_FL,598b40af,TC9_different_agents
+REC00303,David Williams,MLS885386,34420,237-606-9116,david.williams@kw.com,Keller Williams,CA,NWMLS_CA,99b05848,TC6_similar_name_different_agent
+REC00350,Barbara King,MLS386604,FL93115,9925341485,barbara.king@coldwellbanker.com,Century 21,FL,MFRMLS_FL,33156aa0,TC7_exact_duplicate
+REC00269,Elizabeth Williams,MLS900152,57467,997-860-7001,elizabeth.williams@outlook.com,Williams Real Estate,CA,MATRIX_CA,0b826893,TC5_license_prefix
+REC00201,William White,MLS763984,61873,610-736-2288,william.white@realty.com,White Real Estate,NY,MLSLI_NY,2f145e59,TC5_license_prefix
+REC00161,Michael Smith,MLS794963,FL69600,+14823943001,michael.smith@gmail.com,Smith & Associates,FL,MFRMLS_FL,1a5a8d11,TC4_email_variation
+REC00043,Patricia Garcia,MLS890170,NC19880,(485) 673-5092,patricia.garcia@remax.com,Garcia Properties,NC,CRMLS_NC,5ec5dc25,TC2_multi_state
+REC00217,Michael Taylor,MLS364236,98984,+16189936543,michael.taylor@outlook.com,Taylor Real Estate,FL,MIAMI_FL,dbb0963b,TC5_license_prefix
+REC00401,Barbara Williams,,NY-27299,+12125696185,barbara.williams@outlook.com,Williams Realty,NY,REBNY_NY,8a6155a1,TC8_missing_fields
+REC00190,Robert Wilson,MLS799539,89570,877-634-8957,robertw@realty.com,Wilson & Associates,FL,MIAMI_FL,3270c37b,TC4_email_variation
+REC00309,Sarah Smith,MLS240057,TX-038721,(576) 829-4618,sarah_smith@cbunited.com,Coldwell Banker,TX,HAR_TX,ebd43e2d,TC6_similar_name_different_agent
+REC00259,Linda Wilson,MLS962287,NC-66440,(944) 634-2293,linda.wilson@kw.com,Wilson Real Estate,NC,NWMLS_NC,b1917b7f,TC5_license_prefix
+REC00105,Thomas Young,MLS406327,CA82529,4802461893,thomas.young@yahoo.com,Young Realty Group,CA,CRMLS_CA,d4dc737b,TC3_phone_changed
+REC00053,William Thomas,MLS413921,NY-81200,(491) 361-8179,william.thomas@kw.com,Thomas Properties,NY,NYSMLS_NY,481d439d,TC2_multi_state
+REC00389,James Brown,,,+14149556744,,Brown Realty,CA,CRMLS_CA,c7921fb5,TC8_missing_fields
+REC00001,Tom Brown,MLS719176,NC-039256,959-481-5012,tbrown@gmail.com,Brown Realty,NC,NWMLS_NC,a5eaf10f,TC1_name_variation
+REC00491,Elizabeth Taylor,MLS890200,LIC-TX-36738,349-263-5835,elizabetht@coldwellbanker.com,Keller Williams,TX,HAR_TX,c55b3689,TC9_different_agents
+REC00487,Barbara Garcia,MLS503348,CA-076074,+13065966273,bgarcia@kw.com,Coldwell Banker,CA,NWMLS_CA,5543595c,TC9_different_agents
+REC00049,Linda Williams,MLS712024,LIC-CA-98501,+13902702113,linda.williams@cbunited.com,Williams Properties,CA,MATRIX_CA,147086bd,TC2_multi_state
+REC00419,Elizabeth Miller,MLS714590,86326,581-902-2376,elizabeth.miller@yahoo.com,RE/MAX,FL,BRIGHT_FL,976a36a4,TC9_different_agents
+REC00080,William Wilson,MLS535020,NC-040735,650.279.5681,william.wilson@coldwellbanker.com,Wilson Properties,NC,CRMLS_NC,09b4f7da,TC2_multi_state
+REC00205,Elizabeth Wilson,MLS691912,95918,+13778163504,elizabeth.wilson@cbunited.com,Wilson Real Estate,CA,MATRIX_CA,9d89a813,TC5_license_prefix
+REC00034,Lindy Jones,MLS559381,LIC-FL-79163,7623695342,lindyj@yahoo.com,Jones Realty,FL,BRIGHT_FL,c05b71f2,TC1_name_variation
+REC00430,Linda King,MLS421727,59595,(428) 881-3872,lking@gmail.com,eXp Realty,TX,SABOR_TX,201bddfd,TC9_different_agents
+REC00263,James Thomas,MLS387892,FL-90589,243-944-6776,james.thomas@yahoo.com,Thomas Real Estate,FL,BRIGHT_FL,2c1e48e2,TC5_license_prefix
+REC00427,Elizabeth Martin,MLS329437,NC-88861,+12922574811,elizabeth_martin@gmail.com,Century 21,NC,FLEX_NC,9a1cef10,TC9_different_agents
+REC00366,Barbara King,MLS107096,LIC-CA-49932,6683093219,barbara.king@cbunited.com,Century 21,CA,CRMLS_CA,ab5a37f3,TC7_exact_duplicate
+REC00091,Robert Allen,MLS849747,NC61990,519-789-7149,robert.allen@realty.com,Allen Realty Group,NC,CRMLS_NC,95685d55,TC3_phone_changed
+REC00339,Patricia Jackson,MLS186702,32463,6872571154,patricia.jackson@remax.com,Century 21,NY,REBNY_NY,a1809850,TC7_exact_duplicate
+REC00478,Barbara Allen,MLS821673,LIC-CA-78564,885-546-9504,barbara_allen@realty.com,Coldwell Banker,CA,NWMLS_CA,64bdcc97,TC9_different_agents
+REC00052,Patricia Jones,MLS378082,FL69929,887.860.5915,patricia.jones@yahoo.com,Jones Properties,FL,BRIGHT_FL,9da901bf,TC2_multi_state
+REC00345,Robert Taylor,MLS666820,CA98740,777.446.7375,robert.taylor@remax.com,Century 21,CA,CRMLS_CA,a09389b7,TC7_exact_duplicate
+REC00264,James Thomas,MLS768480,FL90589,2439446776,james.thomas@cbunited.com,Thomas Real Estate,FL,BRIGHT_FL,2c1e48e2,TC5_license_prefix
+REC00241,Elizabeth Martin,MLS227767,12490,830-205-2298,elizabeth.martin@realty.com,Martin Real Estate,FL,MIAMI_FL,6faeeebe,TC5_license_prefix
+REC00013,Will Wilson,MLS738720,FL58520,+18505733664,wwilson@realty.com,Wilson Realty,FL,MIAMI_FL,7efcda5f,TC1_name_variation
+REC00315,Sarah Williams,MLS864715,TX-094085,618.384.3218,sarah_williams@coldwellbanker.com,Coldwell Banker,TX,SABOR_TX,40fd2125,TC6_similar_name_different_agent
+REC00088,Michael Jackson,MLS171951,NC-43065,484-970-7906,michael.jackson@realty.com,Jackson Properties,NC,FLEX_NC,94a2cbb0,TC2_multi_state
+REC00387,William Young,MLS878586,84140,3729998492,william.young@yahoo.com,Young Realty,TX,SABOR_TX,62d6c5b7,TC8_missing_fields
+REC00273,John Smith,MLS464301,FL-97535,+12898986236,smith.john@kw.com,Century 21,FL,MFRMLS_FL,0d30aa3a,TC6_similar_name_different_agent
+REC00166,William Davis,MLS928358,TX46342,+19923511046,williamd@cbunited.com,Davis & Associates,TX,NTREIS_TX,5fdfe87a,TC4_email_variation
+REC00328,Chris Williams,MLS428122,FL-058589,979-527-4328,williams.chris@realty.com,RE/MAX,FL,MFRMLS_FL,233e2116,TC6_similar_name_different_agent
+REC00497,Linda Jackson,MLS448005,96944,557.426.4495,lindaj@realty.com,eXp Realty,NC,FLEX_NC,9e8f83c1,TC9_different_agents
+REC00134,Robert Thompson,MLS261859,FL-63736,2159393361,robert.thompson@kw.com,Thompson & Associates,FL,MIAMI_FL,862781a0,TC4_email_variation
+REC00306,David Brown,MLS520304,FL-21368,(637) 727-6372,dbrown@coldwellbanker.com,Century 21,FL,MFRMLS_FL,faf2089c,TC6_similar_name_different_agent
+REC00485,William Miller,MLS851606,34979,602-420-8488,william_miller@gmail.com,eXp Realty,NC,CRMLS_NC,ce564ad6,TC9_different_agents
+REC00319,Sarah Jones,MLS804667,NC-88352,(808) 234-8314,sarah.jones@remax.com,Coldwell Banker,NC,CRMLS_NC,6a3db7ec,TC6_similar_name_different_agent
+REC00243,Robert Martin,MLS853448,NY-85372,(748) 216-9443,robert.martin@kw.com,Martin Real Estate,NY,MLSLI_NY,dad98f26,TC5_license_prefix
+REC00054,William Thomas,MLS212235,LIC-NC-81200,(491) 361-8179,william.thomas@kw.com,Thomas Properties,NC,CRMLS_NC,481d439d,TC2_multi_state
+REC00363,Elizabeth White,MLS478666,TX-020082,631.506.8933,elizabeth.white@realty.com,Century 21,TX,NTREIS_TX,2505fb80,TC7_exact_duplicate
+REC00050,Linda Williams,MLS314181,98501,(390) 270-2113,linda.williams@kw.com,Williams Properties,TX,SABOR_TX,147086bd,TC2_multi_state
+REC00460,William Taylor,MLS408334,FL-086751,539-580-5269,william_taylor@gmail.com,eXp Realty,FL,BRIGHT_FL,10548eee,TC9_different_agents
+REC00174,Barbara Thompson,MLS573489,TX22999,6647178048,bthompson@cbunited.com,Thompson & Associates,TX,SABOR_TX,3870904a,TC4_email_variation
+REC00445,Elizabeth Jones,MLS690016,NY-23845,802.796.2641,jones.elizabeth@cbunited.com,Coldwell Banker,NY,MLSLI_NY,c5849093,TC9_different_agents
+REC00189,Robert Wilson,MLS550797,FL-89570,877.634.8957,rwilson@coldwellbanker.com,Wilson & Associates,FL,BRIGHT_FL,3270c37b,TC4_email_variation
+REC00501,William White,MLS956429,NC-94746,(410) 750-8130,william.white@coldwellbanker.com,Century 21,NC,CRMLS_NC,f62a77f3,TC9_different_agents
+REC00463,Thomas Johnson,MLS901619,FL85534,4804143762,thomas.johnson@outlook.com,eXp Realty,FL,MIAMI_FL,a7443fd6,TC9_different_agents
+REC00187,Elizabeth Johnson,MLS263137,NC59308,+19647434524,elizabethj@gmail.com,Johnson & Associates,NC,FLEX_NC,9a7c5a64,TC4_email_variation
+REC00169,Elizabeth Wilson,MLS332311,LIC-NC-78955,329-959-7897,elizabethw@kw.com,Wilson & Associates,NC,NWMLS_NC,3a87bc74,TC4_email_variation
+REC00058,Jennifer Thompson,MLS178898,FL22097,+17004571832,jennifer.thompson@gmail.com,Thompson Properties,FL,MFRMLS_FL,890a2409,TC2_multi_state
+REC00048,Linda Williams,MLS141672,LIC-NC-98501,390-270-2113,linda.williams@remax.com,Williams Properties,NC,FLEX_NC,147086bd,TC2_multi_state
+REC00344,Jennifer Young,MLS116418,NY-051220,(873) 233-3938,jennifer.young@outlook.com,Century 21,NY,REBNY_NY,d1703276,TC7_exact_duplicate
+REC00235,William Harris,MLS492127,TX-61964,(227) 624-1872,william.harris@remax.com,Harris Real Estate,TX,NTREIS_TX,f693dac2,TC5_license_prefix
+REC00252,Michael Young,MLS913894,TX72722,8583798612,michael.young@gmail.com,Young Real Estate,TX,SABOR_TX,0536a971,TC5_license_prefix
+REC00021,Mike Allen,MLS892495,FL-38746,797-608-6930,mallen@outlook.com,Allen Realty,FL,MIAMI_FL,320a2e9c,TC1_name_variation
+REC00313,Sarah Johnson,MLS584838,83242,625-667-1945,sarah_johnson@kw.com,Keller Williams,NY,NYSMLS_NY,130982d6,TC6_similar_name_different_agent
+REC00459,Linda Garcia,MLS860413,LIC-TX-43902,(299) 682-3096,lindag@yahoo.com,RE/MAX,TX,SABOR_TX,f9b9dcc2,TC9_different_agents
+REC00160,James Thomas,MLS347582,64379,629-801-3531,jamest@cbunited.com,Thomas & Associates,NY,NYSMLS_NY,526f8b59,TC4_email_variation
+REC00276,John Williams,MLS588461,LIC-CA-68979,524.857.2215,jwilliams@outlook.com,RE/MAX,CA,NWMLS_CA,9ab83f99,TC6_similar_name_different_agent
+REC00443,Thomas White,MLS255061,LIC-NC-92211,899.645.4308,thomasw@yahoo.com,Keller Williams,NC,NWMLS_NC,c74d298c,TC9_different_agents
+REC00191,Barbara Smith,MLS367931,NC-27987,409.508.4460,barbara.smith@cbunited.com,Smith Real Estate,NC,CRMLS_NC,92a8c207,TC5_license_prefix
+REC00385,Elizabeth Young,MLS429861,CA-34523,+17014953298,,Young Realty,CA,CRMLS_CA,125a381a,TC8_missing_fields
+REC00293,Mary Brown,MLS603787,NY86483,+17914331841,brown.mary@remax.com,RE/MAX,NY,NYSMLS_NY,323bfb43,TC6_similar_name_different_agent
+REC00413,Elizabeth Wilson,MLS834891,64140,2444379515,elizabeth.wilson@yahoo.com,eXp Realty,NC,CRMLS_NC,bef634c3,TC9_different_agents
+REC00343,Jennifer Young,MLS116418,NY-051220,(873) 233-3938,jennifer.young@outlook.com,Century 21,NY,REBNY_NY,d1703276,TC7_exact_duplicate
+REC00257,James Wilson,MLS879414,47501,9718624131,james.wilson@remax.com,Wilson Real Estate,NC,NWMLS_NC,470debc5,TC5_license_prefix
+REC00308,David Jones,MLS223967,TX-097528,909.441.2017,djones@remax.com,Century 21,TX,HAR_TX,9e0afc84,TC6_similar_name_different_agent
+REC00149,James Smith,MLS442589,NY-021813,(573) 949-3153,james.smith@realty.com,Smith & Associates,NY,REBNY_NY,652786fd,TC4_email_variation
+REC00130,Jennifer Taylor,MLS495533,NY-029476,540.765.9903,jennifer.taylor@realty.com,Taylor Realty Group,NY,MLSLI_NY,3270a008,TC3_phone_changed
+REC00151,James Smith,MLS369452,NY-021813,573.949.3153,jamess@cbunited.com,Smith & Associates,NY,REBNY_NY,652786fd,TC4_email_variation
+REC00359,Barbara Anderson,MLS917018,LIC-FL-60829,212-498-7779,barbara.anderson@realty.com,Century 21,FL,MFRMLS_FL,2896fee8,TC7_exact_duplicate
+REC00099,Robert Davis,MLS777278,FL-072402,7007684937,robert.davis@gmail.com,Davis Realty Group,FL,MFRMLS_FL,69958d9c,TC3_phone_changed
+REC00372,Jennifer Jackson,MLS672133,TX-087624,(316) 777-4273,jennifer.jackson@gmail.com,Century 21,TX,NTREIS_TX,e501dc73,TC7_exact_duplicate
+REC00087,Michael Jackson,MLS665621,FL-43065,484.970.7906,michael.jackson@realty.com,Jackson Properties,FL,BRIGHT_FL,94a2cbb0,TC2_multi_state
+REC00458,Barbara Miller,MLS660605,TX-099957,943.930.4643,miller.barbara@kw.com,RE/MAX,TX,HAR_TX,f48d91dd,TC9_different_agents
+REC00330,Chris Brown,MLS900441,NY-043728,8709016530,chris_brown@outlook.com,Century 21,NY,REBNY_NY,dbef38eb,TC6_similar_name_different_agent
+REC00214,Barbara Miller,MLS648141,LIC-TX-29773,+18196879214,barbara.miller@outlook.com,Miller Real Estate,TX,SABOR_TX,957fe149,TC5_license_prefix
+REC00466,Thomas Taylor,MLS649577,88167,6669459524,ttaylor@cbunited.com,Coldwell Banker,TX,SABOR_TX,fc31ea03,TC9_different_agents
+REC00121,Patricia Young,MLS438977,NC-43082,6652906153,patricia.young@gmail.com,Young Realty Group,NC,CRMLS_NC,5217f2f0,TC3_phone_changed
+REC00504,Linda Brown,MLS902448,TX-046899,9025082417,linda_brown@gmail.com,Coldwell Banker,TX,NTREIS_TX,e2f00317,TC9_different_agents
+REC00020,Michael Allen,MLS245051,LIC-FL-38746,7976086930,michael.allen@yahoo.com,Allen Realty,FL,MFRMLS_FL,320a2e9c,TC1_name_variation
+REC00188,Robert Wilson,MLS534303,89570,(877) 634-8957,robert.wilson@yahoo.com,Wilson & Associates,FL,MIAMI_FL,3270c37b,TC4_email_variation
+REC00071,William White,MLS790855,CA-70946,793.821.6279,william.white@cbunited.com,White Properties,CA,CRMLS_CA,73d3c316,TC2_multi_state
+REC00106,Thomas Young,MLS592198,CA-082529,2127875658,thomas.young@cbunited.com,Young Realty Group,CA,NWMLS_CA,d4dc737b,TC3_phone_changed
+REC00270,Elizabeth Williams,MLS484774,LIC-CA-57467,9978607001,elizabeth.williams@cbunited.com,Williams Real Estate,CA,MATRIX_CA,0b826893,TC5_license_prefix
+REC00348,Robert Thompson,MLS979414,LIC-TX-40427,254-300-8161,robert.thompson@cbunited.com,Century 21,TX,NTREIS_TX,bbdfca38,TC7_exact_duplicate
+REC00435,Patricia Garcia,MLS743453,NC-087860,760-295-6536,patricia_garcia@outlook.com,eXp Realty,NC,NWMLS_NC,d8a8860c,TC9_different_agents
+REC00102,James Young,MLS856321,NY56112,457.436.2976,james.young@yahoo.com,Young Realty Group,NY,MLSLI_NY,6fd09bcc,TC3_phone_changed
